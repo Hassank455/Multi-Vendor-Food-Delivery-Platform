@@ -65,7 +65,13 @@ In the MVP phase, **delivery is handled by restaurants** (no platform driver sys
 - Core flows (order lifecycle, payment flow, cancellations/refunds)
 - API contracts
 
-> Artifacts will be stored under: `docs/system-design/`
+
+### Data Model (ERD)
+The following ERD represents the MVP database design and the relationships between core entities.
+
+<a href="./doc/ERD.jpg" target="_blank">
+  <img src="./doc/ERD.jpg" style="width:100%; max-width:1600px;" />
+</a>
 
 ---
 
